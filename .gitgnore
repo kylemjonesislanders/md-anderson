@@ -1,7 +1,11 @@
 # local folders
 msot-denoising/articles/
 articles/
+/articles
+\articles
 msot-denoising\articles\
+msot-denoising/articles
+msot-denoising\articles
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
