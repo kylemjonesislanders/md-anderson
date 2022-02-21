@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.\spectral-unmixing\python-code\iTheraPY\
 
 # Spyder project settings
 .spyderproject
